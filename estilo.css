@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(180, 221, 247);
+}
+
+h1{
+    color: midnightblue;
+    text-align: center; 
+    font-family: Arial, sans-serif;
+}
+
+h3{
+    font-weight: bold;
+}
+
+p{
+    font-size: 19px;
+    text-align: justify;
+}
+
+.mensagem {
+    margin-top: 17px;
+    color: midnightblue;
+    font-weight: bolder;
+}
+
+li{
+   margin-bottom: 10px; 
+}
+
+.imagemFutebol{
+    width: 300px;
+    border-radius: 10%;
+}
+
+table{
+    border: 2px black solid; 
+    background-color:rgb(207, 207, 210);
+    border-radius: 3%;
+}
+
+th{
+    border: 2px black solid;
+    background-color:rgb(196, 196, 199);
+    padding: 27px;
+    border-radius: 10%;
+}
+
+.imgTable{
+    width: 150px;
+    padding: 5px;
+    border-radius: 10%;
+} 
+
+a:hover{
+    color: rgb(250, 118, 9);
+    font-weight: bolder;
+}
